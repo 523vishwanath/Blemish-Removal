@@ -2,7 +2,7 @@
 Skin smoothening removing blemishes on face in an image
 # 🧴 Blemish Removal — Interactive Skin Retouching with OpenCV
 
-> Click a blemish. Watch it vanish. Like magic — but it's math.
+> ! [Click a blemish. Watch it vanish. Like magic — but it's math.](images/Livegif.gif)
 
 ```markdown
 ![Demo of skin smoothening](images/Livegif.gif)
