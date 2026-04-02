@@ -8,7 +8,10 @@ Skin smoothening removing blemishes on face in an image
 ![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
 
 
+
+
 > Click a blemish. Watch it vanish. Like magic — but it's math.
+
 ![Demo of skin smoothening](images/Livegif.gif)
 
 ---
