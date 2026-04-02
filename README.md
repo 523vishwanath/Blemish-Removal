@@ -4,6 +4,10 @@ Skin smoothening removing blemishes on face in an image
 
 > Click a blemish. Watch it vanish. Like magic — but it's math.
 
+```markdown
+![Demo of skin smoothening](images/Livegif.gif)
+```
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=flat-square&logo=opencv)
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-orange?style=flat-square&logo=numpy)
