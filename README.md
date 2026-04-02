@@ -23,7 +23,7 @@ No deep learning. No giant models. Just elegant signal processing doing beautifu
 
 | Before | After |
 |--------|-------|
-| ![Before](images/blemish.png) | ![After](images/blemishAfter.png) |
+| ![Before](images/blemish.png) |     ![After](images/blemishAfter.png) |
 
 > *Left: Original image with visible blemishes. Right: After a few clicks with the tool.*
 
